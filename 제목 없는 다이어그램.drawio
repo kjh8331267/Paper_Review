@@ -19,7 +19,7 @@
         <mxCell id="VYtAQhhAlDf34FTfLrbl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="VYtAQhhAlDf34FTfLrbl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYtAQhhAlDf34FTfLrbl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="VYtAQhhAlDf34FTfLrbl-4">
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="VYtAQhhAlDf34FTfLrbl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-1" value="Text Embedding&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KPF-SBERT)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-4" value="Semantic Distance Calulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="440" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-5" target="VYtAQhhAlDf34FTfLrbl-7">
           <mxGeometry relative="1" as="geometry" />
