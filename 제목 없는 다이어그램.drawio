@@ -25,20 +25,29 @@
         <mxCell id="VYtAQhhAlDf34FTfLrbl-1" value="Text Embedding&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KPF-SBERT)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-4" target="VYtAQhhAlDf34FTfLrbl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-4" value="Cosine Distance Calulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="180" height="40" as="geometry" />
+          <mxGeometry x="440" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-5" target="VYtAQhhAlDf34FTfLrbl-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-5" value="Density Mapping (KDE)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-7" target="VYtAQhhAlDf34FTfLrbl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-7" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Extracting documents &lt;br&gt;in the top 10% density&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="440" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VYtAQhhAlDf34FTfLrbl-8" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Identifying representative terms&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="200" height="40" as="geometry" />
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-8" target="VYtAQhhAlDf34FTfLrbl-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYtAQhhAlDf34FTfLrbl-9" value="Core Topics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-8" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Identify Core Discourses&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-10" target="VYtAQhhAlDf34FTfLrbl-1">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +60,17 @@
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-11" value="Dimensionality Reduction&lt;div&gt;(UMAP)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYtAQhhAlDf34FTfLrbl-23" target="VYtAQhhAlDf34FTfLrbl-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-23" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Select Top Divergent News–Comment Pairs&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-25" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Interpret Discourse Misalignment&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="600" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
