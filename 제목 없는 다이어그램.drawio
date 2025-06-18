@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="페이지-1" id="GhIzRfuseSfhWp2y06Yb">
-    <mxGraphModel dx="383" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VYtAQhhAlDf34FTfLrbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-4" target="VYtAQhhAlDf34FTfLrbl-10" edge="1">
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-7" target="VYtAQhhAlDf34FTfLrbl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="140" as="sourcePoint" />
+            <mxPoint x="330" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-5" target="VYtAQhhAlDf34FTfLrbl-10" edge="1">
@@ -95,11 +95,11 @@
             <mxPoint x="519" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xwg9cGrMPxDhO4ZREgCj-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;News Articles&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="100" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-5" value="Comments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="473" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwg9cGrMPxDhO4ZREgCj-7" value="News Articles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
