@@ -57,7 +57,7 @@
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-7" value="News Articles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="308" y="120" width="100" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-1" value="Text Summarization&lt;div&gt;(News Only)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-1" value="Text Summarization&lt;div&gt;(LLM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="240" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-10" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
