@@ -19,7 +19,7 @@
         <mxCell id="4CqKo78CO0mhe6PKv5u0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-28" target="VYtAQhhAlDf34FTfLrbl-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYtAQhhAlDf34FTfLrbl-28" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Density-Based Discourse Discovery&lt;br&gt;(DBSCAN)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VYtAQhhAlDf34FTfLrbl-28" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Density-Based Discourse Discovery&lt;br&gt;(HDBSCAN)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="399" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JFAEhoKrqLj79-c4tTw4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="JFAEhoKrqLj79-c4tTw4-1" edge="1">
