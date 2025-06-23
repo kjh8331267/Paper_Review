@@ -5,66 +5,66 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VYtAQhhAlDf34FTfLrbl-1" value="Text Embedding&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;KPF-SBERT)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="340" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="VYtAQhhAlDf34FTfLrbl-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-8" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;RQ1. Semantic Overlap&lt;br&gt;RQ2.&amp;nbsp;Category-wise Variance&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="479" width="200" height="40" as="geometry" />
+          <mxGeometry x="230" y="479" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-23" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;RQ3. Audience Reaction Patterns&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="479" width="200" height="40" as="geometry" />
+          <mxGeometry x="450" y="479" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4CqKo78CO0mhe6PKv5u0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-28" target="VYtAQhhAlDf34FTfLrbl-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-28" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Density-Based Discourse Discovery&lt;br&gt;(DBSCAN)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="399" width="200" height="40" as="geometry" />
+          <mxGeometry x="450" y="399" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JFAEhoKrqLj79-c4tTw4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="JFAEhoKrqLj79-c4tTw4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFAEhoKrqLj79-c4tTw4-1" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Semantic Distance Measurement&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(News–Comment Cosine Similarity)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="399" width="200" height="40" as="geometry" />
+          <mxGeometry x="230" y="399" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JFAEhoKrqLj79-c4tTw4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JFAEhoKrqLj79-c4tTw4-1" target="VYtAQhhAlDf34FTfLrbl-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279" y="569" as="sourcePoint" />
-            <mxPoint x="319" y="509" as="targetPoint" />
+            <mxPoint x="289" y="569" as="sourcePoint" />
+            <mxPoint x="329" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BGQpN8XQ9gG3CCzCgQxF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-5" target="VYtAQhhAlDf34FTfLrbl-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="495" y="300" />
-              <mxPoint x="430" y="300" />
+              <mxPoint x="518" y="300" />
+              <mxPoint x="440" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-5" value="Comments" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="110" width="100" height="50" as="geometry" />
+          <mxGeometry x="468" y="120" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="BGQpN8XQ9gG3CCzCgQxF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-7" target="VYtAQhhAlDf34FTfLrbl-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="379" y="340" as="targetPoint" />
+            <mxPoint x="389" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="300" />
-              <mxPoint x="429" y="300" />
+              <mxPoint x="390" y="300" />
+              <mxPoint x="439" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-7" value="News Articles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="314" y="109" width="100" height="50" as="geometry" />
+          <mxGeometry x="308" y="120" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="BGQpN8XQ9gG3CCzCgQxF-1" value="Text Summarization&lt;div&gt;(GPT-4o)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="240" width="116" height="40" as="geometry" />
+          <mxGeometry x="298" y="240" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-10" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="304" y="180" width="116" height="40" as="geometry" />
+          <mxGeometry x="298" y="180" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BGQpN8XQ9gG3CCzCgQxF-5" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="180" width="116" height="40" as="geometry" />
+          <mxGeometry x="460" y="179" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
