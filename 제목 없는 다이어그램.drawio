@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="페이지-1" id="GhIzRfuseSfhWp2y06Yb">
-    <mxGraphModel dx="1148" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="JFAEhoKrqLj79-c4tTw4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VYtAQhhAlDf34FTfLrbl-1" target="JFAEhoKrqLj79-c4tTw4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JFAEhoKrqLj79-c4tTw4-1" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Semantic Distance Measurement&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(News–Comment Cosine Similarity)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JFAEhoKrqLj79-c4tTw4-1" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Semantic Distance Measurement&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(News–Comment Cosine Distance)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="399" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JFAEhoKrqLj79-c4tTw4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JFAEhoKrqLj79-c4tTw4-1" target="VYtAQhhAlDf34FTfLrbl-8" edge="1">
@@ -34,7 +34,7 @@
             <mxPoint x="329" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-5" target="VYtAQhhAlDf34FTfLrbl-1">
+        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-5" target="VYtAQhhAlDf34FTfLrbl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="518" y="300" />
@@ -45,7 +45,7 @@
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-5" value="Comments" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="468" y="120" width="100" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-7" target="VYtAQhhAlDf34FTfLrbl-1">
+        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xwg9cGrMPxDhO4ZREgCj-7" target="VYtAQhhAlDf34FTfLrbl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389" y="340" as="targetPoint" />
             <Array as="points">
@@ -57,13 +57,13 @@
         <mxCell id="Xwg9cGrMPxDhO4ZREgCj-7" value="News Articles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="308" y="120" width="100" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-1" value="Text Summarization&lt;div&gt;(LLM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-1" value="Text Summarization&lt;div&gt;(LLM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298" y="240" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYtAQhhAlDf34FTfLrbl-10" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="298" y="180" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-5" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BGQpN8XQ9gG3CCzCgQxF-5" value="Text Cleaning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="179" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
